@@ -1,7 +1,6 @@
 //COSC130
 //lab8.S
 //Dai'zjon Carney
-//worked with Grady Hecht, and David Nguyen
 .section .rodata
 //set up labels for a decimal and a char
 numb:.asciz "%d"
