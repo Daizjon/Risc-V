@@ -1,7 +1,4 @@
-//COSC130
-//lab9.S
 //Dai'zjon Carney
-//3/29/2019
 .section .rodata
 prompt:.asciz "level	Index	Byte Offset\n"
 usage:.asciz "Usage: %s <address>\n"
