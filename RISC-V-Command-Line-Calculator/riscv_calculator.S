@@ -1,5 +1,3 @@
-//COSC130
-//lab8.S
 //Dai'zjon Carney
 .section .rodata
 //set up labels for a decimal and a char
